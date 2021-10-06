@@ -1,0 +1,1 @@
+AnonChat foi desenvolvido para possibilitar uma conversa anônima entre usuários
